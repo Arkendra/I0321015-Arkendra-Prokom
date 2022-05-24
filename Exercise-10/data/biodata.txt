@@ -1,0 +1,6 @@
+Nama: arken
+Umur: 18
+Alamat: gk
+Nama: arkendra
+Umur: 20
+Alamat: jogja
